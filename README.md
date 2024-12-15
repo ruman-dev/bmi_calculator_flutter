@@ -1,6 +1,6 @@
 # bmi_calculator
 
-A new Flutter project.
+BMI Calculator to calculate the ratio of weight and height of human
 
 ## Getting Started
 
